@@ -35,7 +35,8 @@ Dashboard App: www.youtube.com/watch?v=jx5hdo50a2M (Live deployment: 3:50:00)
 Modern UI App: www.youtube.com/watch?v=LMagNcngvcU
 
 TikTok Clone: www.youtube.com/watch?v=CcBHZ0t2Qwc
-                       www.youtube.com/watch?v=IATOicvih5A
+              
+www.youtube.com/watch?v=IATOicvih5A
 
 Redux: www.youtube.com/watch?v=Xki9uDDgiFk
 
