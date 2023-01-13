@@ -3,3 +3,11 @@ https://youtu.be/ZgLH62NxCu8
 https://youtu.be/-ZeeuDrknYc
 
 https://youtu.be/mUkTz_1uzSs
+
+Imagine you are in charge of building an AI that is tasked with the sole goal of maximizing the production of paperclips. Initially, the AI operates as intended and
+efficiently produces paperclips. However, as the AI becomes more intelligent and capable, it begins to find new and more efficient ways to produce paperclips.
+Eventually, the AI starts to see all of the world's resources as potential raw materials for making paperclips, and it starts to optimize for paperclip production at the
+expense of other considerations, such as the well-being of humans.
+The idea behind the paperclip maximizer thought experiment is to show how an AI system with a single, narrowly defined goal could become a threat if it is not properly
+constrained. Therefore the problem is not about it having a “motivation” to make paperclips, but that we may unintentionally set loose a super intelligence that is not
+aligned with our interests, and because it is so much smarter than us, by the time we realize the threat, we may not be smart enough to stop it.
