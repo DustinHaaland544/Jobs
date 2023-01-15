@@ -8,6 +8,8 @@ https://youtu.be/WSEMyl469Dw
 
 https://youtu.be/Ra3fv8gl6NE
 
+https://time.com/6246119/demis-hassabis-deepmind-interview
+
 Imagine you are in charge of building an AI that is tasked with the sole goal of maximizing the production of paperclips. Initially, the AI operates as intended and
 efficiently produces paperclips. However, as the AI becomes more intelligent and capable, it begins to find new and more efficient ways to produce paperclips.
 Eventually, the AI starts to see all of the world's resources as potential raw materials for making paperclips, and it starts to optimize for paperclip production at the
