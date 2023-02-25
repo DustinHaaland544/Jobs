@@ -1,0 +1,17 @@
+Ideal Python Skills needed for Jobs [2023/02/24]:
+
+Python expert with an expertise on Python web framework, such as Django
+Working knowledge of several ORM (Object Relational Mapper) libraries
+Capable of combining many data sources and databases into a single system
+Knowledge of Python’s threading constraints and multi-process architecture
+Solid knowledge of server-side templating languages such as Jinja 2, Mako, etc.
+Fundamental knowledge of front-end technologies such as JavaScript, HTML5, and CSS3
+Knowledge of accessibility and security regulations
+Familiarity with user authentication
+Authorisation across numerous systems, servers, and settings
+Knowledge of the core design ideas underlying a scalable application
+Experience with Python event-driven programming
+Understanding the distinctions between various delivery platforms, such as mobile vs desktop, and optimising output to meet the individual platform
+Capable of developing database schemas to represent and support business operations
+Excellent unit testing and debugging abilities
+Thorough knowledge of code versioning systems such as Git, Mercurial, or SVN
