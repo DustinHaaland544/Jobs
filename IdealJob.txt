@@ -1,0 +1,91 @@
+Senior Full Stack Developer
+Dash Hudson  Halifax, NS Hybrid 2 days ago  47 applicants
+Full-time · Mid-Senior level
+51-200 employees · Software Development
+8 connections work here · 6 company alumni work here · 12 school alumni work here
+
+About the job
+The Opportunity
+
+
+We work with the world's leading brands and publishers to drive visual performance across all of their marketing channels. The Senior Full Stack Developer role offers a unique opportunity to build products for the world's leading brands and publishers such as Apple, Nordstrom, Sephora, Unilever, and Hearst from our office in the heart of downtown Halifax.
+
+
+A little bit more about our team and products:
+
+We're a diverse and growing team from around the world.
+We build a best-in-class, beautiful, SaaS product suite that our customers love.
+Our products compete with the biggest companies in the marketing software industry.
+We have a big vision for the future of visual intelligence. We want you to be part of it.
+
+A few interesting details about our scale:
+
+Over 30 million unique monthly visitors for tools we support
+Hundreds of Terabytes of media and Tens of Terabytes of data in our databases
+Hundreds of production EC2 instances
+Over 1 million images / videos added every month
+
+A few details about our tech stack:
+
+Frontend: Modern JavaScript stack using Vue.js and Pinia
+Backend: Python, Flask, Celery, Kafka, SQLAlchemy
+Databases: MySQL (Aurora), ElasticSearch
+Infrastructure: GitHub Actions, Kubernetes, ArgoCD, Terraform, AWS
+
+Responsibilities
+
+
+You will join a product team made up of a product manager, designer and other developers. You will collaborate closely with this group to take ownership of a problem area, influence the roadmap and plan product features. Responsibilities include:
+
+
+Design, build, test, and maintain product features
+
+Write and collaborate on technical specifications
+Write and maintain automated tests
+Address technical debt continually improve service codebases
+Analyze and optimize application code for efficiency and performance
+Write clean and well-organized code in accordance with industry best practices
+Participate in peer reviewing of code and share expertise with other team members
+Participate in cross-team architecture and initiatives
+
+Desired Qualifications
+
+
+4+ years of experience doing hands-on software development
+Strong programming skills in Python and Javascript
+Experience building SaaS products
+Experience working with single page applications
+Strong understanding of object-oriented programming concepts and design patterns
+Proficiency with APIs / microservices architecture
+Experience in end-to-end and automated testing
+Excellent Problem-solving and troubleshooting skills
+
+Don't meet every qualification? Research shows that equity-deserving groups like women and people of colour are 20% less likely to apply to jobs unless they are 100% qualified. Dash Hudson is committed to diversity, equity, and inclusion by being representative of the diverse communities that we serve. We have a culture that values differences and ensures that every current and prospective team member has equitable access to opportunities to succeed. If you are interested and excited about this role but your qualifications don't match up perfectly, we encourage you to still apply. You may be the best candidate for this role.
+
+
+Work With Us
+
+
+At Dash Hudson, we strive to build great solutions that solve real problems for marketers, and are unabashed about our unique ability to be the best at what we do. To achieve our goals as a company and provide a service to our customers that is unmatched, we believe that collaboration and support among the team is what propels us forward.
+
+
+Dash Hudson would not exist without the dedicated employees who contribute their unique skills, voices, and ideas to the long-term success of the company. Building a diverse and talented team is an integral part of creating an innovative and well-rounded product, and work environment.
+
+
+Dash Hudson's hiring practices and company culture does not condone discrimination based on race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability status, or any other applicable characteristics protected by law.
+
+
+Employee Benefits
+
+
+At Dash Hudson our team is our competitive advantage. We are committed to supporting one another and we work hard to make sure everyone has the support they need. In addition to health and dental benefits for you and your family, you can also expect:
+
+Vacation, personal days and sick time
+RRSP matching
+Mental health benefit
+Wellness benefit
+Donation matching program
+Parental leave top up plan
+Work from home benefit
+Flexible working hours and location
+Departmental and team-wide bonding activities
